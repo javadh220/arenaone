@@ -25,51 +25,51 @@ Arena One centralizes tournament management into a single system.
 
 # Core Features (MVP)
 
-# Tournament Creation
+Tournament Creation
 	•	Create knockout or league-style competitions
 	•	Define team limits and rules
 	•	Automatically generate fixtures
 
-# Online Payments
+Online Payments
 	•	Secure Stripe integration
 	•	Team registration linked to payment confirmation
 	•	Transparent transaction tracking
 
-# Standings and Statistics
+Standings and Statistics
 	•	Automatically calculated league tables
 	•	Goal difference and points tracking
 	•	Real-time leaderboard updates
 
-# Organiser Dashboard
+Organiser Dashboard
 	•	Manage teams and registrations
 	•	Approve entries
 	•	Enter match results
 	•	Monitor payments
 
-# Participant Experience
+Participant Experience
 	•	Simple team registration
 	•	Access to schedules
 	•	Live standings visibility
 
-# System Architecture (High-Level)
+System Architecture (High-Level)
 
-# Frontend
+Frontend
 	•	React or Next.js
 
-# Backend
+Backend
 	•	Node.js with Express
 	•	REST API architecture
 
-# Database
+Database
 	•	PostgreSQL or Firebase
 
-# Payments
+Payments
 	•	Stripe API
 
-# Hosting
+Hosting
 	•	Vercel, Railway, or AWS
 
-# Application Flow
+Application Flow
 	1.	Organizer creates a tournament.
 	2.	The system generates a public event page.
 	3.	Teams register and complete payment.
