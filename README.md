@@ -1,16 +1,16 @@
-	Arena One
+# Arena One
 
 Arena One is a digital competition and event management platform designed to simplify how tournaments, leagues, and competitive events are organized, managed, and experienced.
 
 It is built to streamline operations for organizers while delivering a seamless experience for players and spectators.
 
-Vision
+# Vision
 
 Arena One aims to become the go-to platform for managing competitive events — from local indoor soccer tournaments to large-scale leagues — by combining structured workflows, payment automation, and real-time competition tracking.
 
 The objective is to eliminate manual coordination and replace fragmented systems with a centralized, intelligent platform.
 
-Problem Statement
+# Problem Statement
 
 Event organizers commonly rely on:
 	•	Manual fixture creation
@@ -23,53 +23,53 @@ These processes create inefficiencies, errors, and limited visibility for partic
 
 Arena One centralizes tournament management into a single system.
 
-Core Features (MVP)
+# Core Features (MVP)
 
-Tournament Creation
+# Tournament Creation
 	•	Create knockout or league-style competitions
 	•	Define team limits and rules
 	•	Automatically generate fixtures
 
-Online Payments
+# Online Payments
 	•	Secure Stripe integration
 	•	Team registration linked to payment confirmation
 	•	Transparent transaction tracking
 
-Standings and Statistics
+# Standings and Statistics
 	•	Automatically calculated league tables
 	•	Goal difference and points tracking
 	•	Real-time leaderboard updates
 
-Organizer Dashboard
+# Organiser Dashboard
 	•	Manage teams and registrations
 	•	Approve entries
 	•	Enter match results
 	•	Monitor payments
 
-Participant Experience
+# Participant Experience
 	•	Simple team registration
 	•	Access to schedules
 	•	Live standings visibility
 
-System Architecture (High-Level)
+# System Architecture (High-Level)
 
-Frontend
+# Frontend
 	•	React or Next.js
 
-Backend
+# Backend
 	•	Node.js with Express
 	•	REST API architecture
 
-Database
+# Database
 	•	PostgreSQL or Firebase
 
-Payments
+# Payments
 	•	Stripe API
 
-Hosting
+# Hosting
 	•	Vercel, Railway, or AWS
 
-Application Flow
+# Application Flow
 	1.	Organizer creates a tournament.
 	2.	The system generates a public event page.
 	3.	Teams register and complete payment.
@@ -79,7 +79,7 @@ Application Flow
 	7.	Results are submitted.
 	8.	Standings update automatically.
 
-Installation (Development)
+# Installation (Development)
 
 git clone https://github.com/javadh220/arena-one.git
 cd arena-one
@@ -91,7 +91,7 @@ DATABASE_URL=
 STRIPE_SECRET_KEY=
 NEXT_PUBLIC_STRIPE_PUBLIC_KEY=
 
-Development Roadmap
+# Development Roadmap
 
 Phase 1 – MVP
 	•	Tournament creation
@@ -111,16 +111,16 @@ Phase 3 – Scale
 	•	Performance analytics
 	•	White-label solution
 
-Business Model
+# Business Model
 	•	Transaction fee on registrations
 	•	Subscription tiers for organizers
 	•	Sponsored placements
 	•	Premium analytics features
 
-Status
+# Status
 
 Currently in active development.
 
-Founder
+# Founder
 
 Developed and conceptualized by Javadh Moodley
