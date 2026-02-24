@@ -119,7 +119,7 @@ Phase 3 – Scale
 
 # Status
 
-Currently in active development.
+On Hold (Active Development Paused)
 
 # Founder
 
