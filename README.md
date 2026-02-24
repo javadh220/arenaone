@@ -1,4 +1,4 @@
-Arena One
+	Arena One
 
 Arena One is a digital competition and event management platform designed to simplify how tournaments, leagues, and competitive events are organized, managed, and experienced.
 
